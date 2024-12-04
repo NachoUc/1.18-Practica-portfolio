@@ -1,0 +1,45 @@
+th, td{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.pract{
+    text-align: justify;
+}
+  table, th, td {
+    border-radius: 10px;
+    background-color: #f7f6f6;
+    color: black;
+  }
+  button {
+    color: black;
+    font-size: 17px;
+    padding: auto;
+    border: 1px solid #ffffff1f;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  button:hover {
+    color: #f05135;
+    background: linear-gradient(145deg, #f7f6f6, #f7f6f6);
+    -webkit-box-shadow: 5px 5px 15px #f7f6f6,
+                -5px -5px 15px #f7f6f6;
+    box-shadow: 5px 5px 15px #f7f6f6,
+                -5px -5px 15px #f7f6f6;
+  }
+  
+  button:active {
+    color: black;
+    background: #f7f6f6;
+    -webkit-box-shadow: inset 5px 5px 15px #f7f6f6,
+                inset -5px -5px 15px #f7f6f6;
+    box-shadow: inset 5px 5px 15px #f7f6f6,
+                inset -5px -5px 15px #f7f6f6;
+  }
+  h1{
+    color: rgb(49, 48, 48);
+  }
+  th{
+    color: rgb(95, 91, 91);
+  }
+  
